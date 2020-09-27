@@ -1,4 +1,4 @@
 The data from the Seattle Police Department covers a period over 15+ years with 190,000 observations made
 during the said period. To accurately build a model to better understand the common causes of road accidents, 
 help prevent future accidents and reduce the severity, the following attributes would be needed: ADDRTYPE, 
-PERSONCOUNT, VEHCOUNT, WEATHER, ROADCOND, LIGHTCOND, LOCATION, SPEEDING.
+PERSONCOUNT, VEHCOUNT, WEATHER, ROADCOND.
